@@ -7,7 +7,7 @@ Installation
 (this game is not actually installable, it was a personal project.)
 Put the ConnectFour directory folder into your Eclipse workspace, and your all set!
 
-######Instructions—How to play!
+Instructions—How to play!
 1.	To run the game, right-click on its folder in Eclipse and select run as > 1 Java Application
 2.	You will then be prompted to select singleplayer or multiplayer. One is against the machine, another is against another player. Input the desired option and hit enter.
 
@@ -24,13 +24,15 @@ Put the ConnectFour directory folder into your Eclipse workspace, and your all s
 
 ![image](https://user-images.githubusercontent.com/84241432/126331639-6e67cc6c-fe61-49c9-9206-1c6224f2c0fd.png)
 
-######FAQ
+FAQ
 Are the rules different from the original game? No, they are the same
 Does the Computer opponent become harder? No, I haven’t programmed that in and probably wont
 
-######Troubleshooting
+Troubleshooting
 Not Applicable
 
-######Contributions
+Contributions
 This is a personal project on my hard drive alone, there will be no contributions.
 
+Licensing
+Not Applicable
