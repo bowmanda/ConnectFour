@@ -25,14 +25,18 @@ Instructions—How to play!
 ![image](https://user-images.githubusercontent.com/84241432/126331639-6e67cc6c-fe61-49c9-9206-1c6224f2c0fd.png)
 
 FAQ
+
 Are the rules different from the original game? No, they are the same
 Does the Computer opponent become harder? No, I haven’t programmed that in and probably wont
 
 Troubleshooting
+
 Not Applicable
 
 Contributions
+
 This is a personal project on my hard drive alone, there will be no contributions.
 
 Licensing
+
 Not Applicable
