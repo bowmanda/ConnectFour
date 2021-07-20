@@ -16,12 +16,14 @@ Instructions—How to play!
 3.	It asks whether you want to be O’s (Player 1) or X’s (Player 2). Input the desired option and hit enter.
 
 ![image](https://user-images.githubusercontent.com/84241432/126331572-edac666b-a812-40a4-8fc7-0c54407fc2e9.png)
+
 4.	From here on, the game has started. Each player will select a row to drop their piece until four O’s or X’s in a row are achieved vertically, diagonally, or horizontally.
 
 
 ![image](https://user-images.githubusercontent.com/84241432/126331613-a534d47c-448b-485b-84ad-b3158ef88817.png)
 
 ![image](https://user-images.githubusercontent.com/84241432/126331639-6e67cc6c-fe61-49c9-9206-1c6224f2c0fd.png)
+
 FAQ
 Are the rules different from the original game? No, they are the same
 Does the Computer opponent become harder? No, I haven’t programmed that in and probably wont
